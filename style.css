@@ -17,6 +17,7 @@ body{
 
 .conteudo-principal{
     display: flex;
+    justify-content: center;
     flex-direction: column;
     align-items: center;
     max-width: 1200px;
